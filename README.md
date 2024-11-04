@@ -1,10 +1,10 @@
 # Portfólio João
 
-Este é o código-fonte do meu portfólio pessoal, o portfólio foi criado para apresentar meus projetos, minhas habilidades e possibilitar que outras pessoas entrem em contato com ele.
+Este é o código-fonte do meu portfólio pessoal, o portfólio foi criado para treinar minhas habiliadades de front-end e apresentar meus projetos, minhas habilidades e possibilitar que outras pessoas entrem em contato com ele.
 
 ## Estrutura do Projeto
 
-O projeto é composto por um arquivo HTML para o conteúdo e um arquivo CSS para o estilo.
+O projeto é composto por um arquivo HTML para o conteúdo e um arquivo CSS para o estilo fora as imagens.
 
 ### Arquivos Principais
 
@@ -15,11 +15,11 @@ O projeto é composto por um arquivo HTML para o conteúdo e um arquivo CSS para
 
 1. **Cabeçalho (header)**: Contém a logo e um menu de navegação que permite acessar as seções "Início", "Projetos" e "Sobre".
 
-2. **Seção de Apresentação (topo-do-site)**: João se apresenta e descreve brevemente suas habilidades e objetivos profissionais.
+2. **Seção de Apresentação (topo-do-site)**: Eu me apresento e descrevo brevemente minhas habilidades e objetivos profissionais.
 
-3. **Seção de Projetos (especialidades)**: Exibe alguns dos projetos desenvolvidos por João, incluindo um TCC da ETEC, o aplicativo "Finance Tracker" e uma calculadora mobile em Java.
+3. **Seção de Projetos (especialidades)**: Exibe alguns dos projetos desenvolvidos por mim, incluindo um TCC da ETEC, o aplicativo "Finance Tracker" e uma calculadora mobile em Java.
 
-4. **Seção Sobre (sobre)**: João convida os visitantes a se conectarem com ele no LinkedIn, GitHub e Instagram.
+4. **Seção Sobre (sobre)**: Eu faço o convite aos visitantes a se conectarem com ele no LinkedIn, GitHub e Instagram.
 
 5. **Rodapé (footer)**: Inclui links para redes sociais e e-mail de contato.
 
@@ -35,17 +35,21 @@ O projeto é composto por um arquivo HTML para o conteúdo e um arquivo CSS para
 
 ## Funcionalidades e Interações
 
-- **Animação**: A imagem de João na seção de apresentação possui uma animação de flutuação.
+- **Animação**: A minha imagem na seção de apresentação possui uma animação de flutuação.
 - **Hover Effects**: Alguns botões e ícones apresentam efeitos de sombra e redimensionamento ao passar o mouse.
 - **Responsividade**: O layout se adapta a diferentes tamanhos de tela, exibindo um menu simplificado em dispositivos menores.
 
 ## Redes Sociais e Contato
 
-João está disponível para conexão nas seguintes plataformas:
+Estou está disponível para conexão nas seguintes plataformas:
 
 - [Instagram](https://www.instagram.com/jao_ambrosio)
 - [GitHub](https://github.com/JoaomBRosio)
 - [LinkedIn](https://linkedin.com/in/joão-goldoni-ambrosio-444466211)
+
+## Sistema em execução
+
+https://gregarious-llama-47838c.netlify.app
 
 ---
 
